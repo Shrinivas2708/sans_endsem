@@ -9,7 +9,7 @@ import Header from "./components/Header";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-axios.defaults.baseURL = "http://localhost:8090/";
+axios.defaults.baseURL = "https://schoolmanage-8f52.onrender.com/";
 
 function App() {
   const showSuccessToast = () => {
