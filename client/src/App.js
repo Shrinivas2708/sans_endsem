@@ -1,5 +1,5 @@
 import "./App.css";
-import { FaSearch, FaFilter } from "react-icons/fa"; // Import icons from react-icons library
+// import { FaSearch, FaFilter } from "react-icons/fa"; // Import icons from react-icons library
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
